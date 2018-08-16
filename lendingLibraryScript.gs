@@ -42,7 +42,7 @@ var USER_EMAIL_COLUMN = 6;
 
 //Below is the fusion table if plotting a map using the Fusion Tables service. 
 
-var TABLE_ID = '1yt90oI79_JRmpgsZXqPHZD6JS8Xv_sO2nN4Bol9J';
+var TABLE_ID = '{ADD YOUR OWN! SEE fusion tables url for alpha numeric code..}';
 
 // First row that has data, as opposed to header information
 var FIRST_DATA_ROW = 4;
